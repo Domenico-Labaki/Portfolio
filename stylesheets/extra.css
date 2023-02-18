@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+:root {
+    --md-primary-fg-color: #543981;
+    --md-primary-fg-color--light: #8c67c8;
+    --md-primary-fg-color--dark:  #1d132d;
+}
+
+.md-typeset h1, h2, h3, h4, h5, h6 {
+    font-family: 'Quicksand', sans-serif;
+}
